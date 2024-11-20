@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02 Listor och arrayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdfd1009749f08f3c86c8ab96f41b6e1eb94744a")]
 [assembly: System.Reflection.AssemblyProductAttribute("02 Listor och arrayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02 Listor och arrayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
