@@ -1,0 +1,15 @@
+c:\Users\amira.abdulleiid\Documents\programering\övningar\02 Listor och arrayer\02 Listor och arrayer\bin\Debug\net8.0\02 Listor och arrayer.exe
+c:\Users\amira.abdulleiid\Documents\programering\övningar\02 Listor och arrayer\02 Listor och arrayer\bin\Debug\net8.0\02 Listor och arrayer.deps.json
+c:\Users\amira.abdulleiid\Documents\programering\övningar\02 Listor och arrayer\02 Listor och arrayer\bin\Debug\net8.0\02 Listor och arrayer.runtimeconfig.json
+c:\Users\amira.abdulleiid\Documents\programering\övningar\02 Listor och arrayer\02 Listor och arrayer\bin\Debug\net8.0\02 Listor och arrayer.dll
+c:\Users\amira.abdulleiid\Documents\programering\övningar\02 Listor och arrayer\02 Listor och arrayer\bin\Debug\net8.0\02 Listor och arrayer.pdb
+c:\Users\amira.abdulleiid\Documents\programering\övningar\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\02 Listor och arrayer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\amira.abdulleiid\Documents\programering\övningar\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\02 Listor och arrayer.AssemblyInfoInputs.cache
+c:\Users\amira.abdulleiid\Documents\programering\övningar\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\02 Listor och arrayer.AssemblyInfo.cs
+c:\Users\amira.abdulleiid\Documents\programering\övningar\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\02 Listor och arrayer.csproj.CoreCompileInputs.cache
+c:\Users\amira.abdulleiid\Documents\programering\övningar\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\02 Listor och arrayer.sourcelink.json
+c:\Users\amira.abdulleiid\Documents\programering\övningar\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\02 Listor och arrayer.dll
+c:\Users\amira.abdulleiid\Documents\programering\övningar\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\refint\02 Listor och arrayer.dll
+c:\Users\amira.abdulleiid\Documents\programering\övningar\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\02 Listor och arrayer.pdb
+c:\Users\amira.abdulleiid\Documents\programering\övningar\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\02 Listor och arrayer.genruntimeconfig.cache
+c:\Users\amira.abdulleiid\Documents\programering\övningar\02 Listor och arrayer\02 Listor och arrayer\obj\Debug\net8.0\ref\02 Listor och arrayer.dll

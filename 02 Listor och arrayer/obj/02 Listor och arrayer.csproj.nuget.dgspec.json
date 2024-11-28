@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amira.abdulleiid\\Documents\\programering\\övningar\\02 Listor och arrayer\\02 Listor och arrayer\\02 Listor och arrayer.csproj": {}
+    "c:\\Users\\amira.abdulleiid\\Documents\\programering\\övningar\\02 Listor och arrayer\\02 Listor och arrayer\\02 Listor och arrayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amira.abdulleiid\\Documents\\programering\\övningar\\02 Listor och arrayer\\02 Listor och arrayer\\02 Listor och arrayer.csproj": {
+    "c:\\Users\\amira.abdulleiid\\Documents\\programering\\övningar\\02 Listor och arrayer\\02 Listor och arrayer\\02 Listor och arrayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amira.abdulleiid\\Documents\\programering\\övningar\\02 Listor och arrayer\\02 Listor och arrayer\\02 Listor och arrayer.csproj",
+        "projectUniqueName": "c:\\Users\\amira.abdulleiid\\Documents\\programering\\övningar\\02 Listor och arrayer\\02 Listor och arrayer\\02 Listor och arrayer.csproj",
         "projectName": "02 Listor och arrayer",
-        "projectPath": "C:\\Users\\amira.abdulleiid\\Documents\\programering\\övningar\\02 Listor och arrayer\\02 Listor och arrayer\\02 Listor och arrayer.csproj",
+        "projectPath": "c:\\Users\\amira.abdulleiid\\Documents\\programering\\övningar\\02 Listor och arrayer\\02 Listor och arrayer\\02 Listor och arrayer.csproj",
         "packagesPath": "C:\\Users\\amira.abdulleiid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amira.abdulleiid\\Documents\\programering\\övningar\\02 Listor och arrayer\\02 Listor och arrayer\\obj\\",
+        "outputPath": "c:\\Users\\amira.abdulleiid\\Documents\\programering\\övningar\\02 Listor och arrayer\\02 Listor och arrayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
